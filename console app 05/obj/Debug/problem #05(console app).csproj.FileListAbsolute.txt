@@ -1,0 +1,7 @@
+C:\Users\SHAHABUDIN\Desktop\Roll #03\problem #05(console app)\bin\Debug\problem #05(console app).exe.config
+C:\Users\SHAHABUDIN\Desktop\Roll #03\problem #05(console app)\bin\Debug\problem #05(console app).exe
+C:\Users\SHAHABUDIN\Desktop\Roll #03\problem #05(console app)\bin\Debug\problem #05(console app).pdb
+C:\Users\SHAHABUDIN\Desktop\Roll #03\problem #05(console app)\obj\Debug\problem #05(console app).csproj.AssemblyReference.cache
+C:\Users\SHAHABUDIN\Desktop\Roll #03\problem #05(console app)\obj\Debug\problem #05(console app).csproj.CoreCompileInputs.cache
+C:\Users\SHAHABUDIN\Desktop\Roll #03\problem #05(console app)\obj\Debug\problem #05(console app).exe
+C:\Users\SHAHABUDIN\Desktop\Roll #03\problem #05(console app)\obj\Debug\problem #05(console app).pdb
