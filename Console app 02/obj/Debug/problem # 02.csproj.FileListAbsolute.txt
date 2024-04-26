@@ -1,0 +1,7 @@
+C:\Users\SHAHABUDIN\Desktop\problem # 02\bin\Debug\problem # 02.exe.config
+C:\Users\SHAHABUDIN\Desktop\problem # 02\bin\Debug\problem # 02.exe
+C:\Users\SHAHABUDIN\Desktop\problem # 02\bin\Debug\problem # 02.pdb
+C:\Users\SHAHABUDIN\Desktop\problem # 02\obj\Debug\problem # 02.csproj.AssemblyReference.cache
+C:\Users\SHAHABUDIN\Desktop\problem # 02\obj\Debug\problem # 02.csproj.CoreCompileInputs.cache
+C:\Users\SHAHABUDIN\Desktop\problem # 02\obj\Debug\problem # 02.exe
+C:\Users\SHAHABUDIN\Desktop\problem # 02\obj\Debug\problem # 02.pdb
