@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\Collecting data of a new student\Collecting data of a new student\bin\Debug\Collecting data of a new student.exe.config
+C:\Users\Hp\Desktop\Collecting data of a new student\Collecting data of a new student\bin\Debug\Collecting data of a new student.exe
+C:\Users\Hp\Desktop\Collecting data of a new student\Collecting data of a new student\bin\Debug\Collecting data of a new student.pdb
+C:\Users\Hp\Desktop\Collecting data of a new student\Collecting data of a new student\obj\Debug\Collecting data of a new student.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Collecting data of a new student\Collecting data of a new student\obj\Debug\Collecting_data_of_a_new_student.Form1.resources
+C:\Users\Hp\Desktop\Collecting data of a new student\Collecting data of a new student\obj\Debug\Collecting_data_of_a_new_student.Properties.Resources.resources
+C:\Users\Hp\Desktop\Collecting data of a new student\Collecting data of a new student\obj\Debug\Collecting data of a new student.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Collecting data of a new student\Collecting data of a new student\obj\Debug\Collecting data of a new student.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Collecting data of a new student\Collecting data of a new student\obj\Debug\Collecting data of a new student.exe
+C:\Users\Hp\Desktop\Collecting data of a new student\Collecting data of a new student\obj\Debug\Collecting data of a new student.pdb
