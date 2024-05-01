@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\Notepad Windows Form\Notepad Windows Form\bin\Debug\Notepad Windows Form.exe.config
+C:\Users\Hp\Desktop\Notepad Windows Form\Notepad Windows Form\bin\Debug\Notepad Windows Form.exe
+C:\Users\Hp\Desktop\Notepad Windows Form\Notepad Windows Form\bin\Debug\Notepad Windows Form.pdb
+C:\Users\Hp\Desktop\Notepad Windows Form\Notepad Windows Form\obj\Debug\Notepad Windows Form.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Notepad Windows Form\Notepad Windows Form\obj\Debug\Notepad_Windows_Form.Form1.resources
+C:\Users\Hp\Desktop\Notepad Windows Form\Notepad Windows Form\obj\Debug\Notepad_Windows_Form.Properties.Resources.resources
+C:\Users\Hp\Desktop\Notepad Windows Form\Notepad Windows Form\obj\Debug\Notepad Windows Form.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Notepad Windows Form\Notepad Windows Form\obj\Debug\Notepad Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Notepad Windows Form\Notepad Windows Form\obj\Debug\Notepad Windows Form.exe
+C:\Users\Hp\Desktop\Notepad Windows Form\Notepad Windows Form\obj\Debug\Notepad Windows Form.pdb
