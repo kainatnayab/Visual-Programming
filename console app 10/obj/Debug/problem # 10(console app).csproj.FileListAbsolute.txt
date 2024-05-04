@@ -1,7 +1,0 @@
-C:\Users\SHAHABUDIN\Desktop\assignment 1\problem # 10(console app)\bin\Debug\problem # 10(console app).exe.config
-C:\Users\SHAHABUDIN\Desktop\assignment 1\problem # 10(console app)\bin\Debug\problem # 10(console app).exe
-C:\Users\SHAHABUDIN\Desktop\assignment 1\problem # 10(console app)\bin\Debug\problem # 10(console app).pdb
-C:\Users\SHAHABUDIN\Desktop\assignment 1\problem # 10(console app)\obj\Debug\problem # 10(console app).csproj.AssemblyReference.cache
-C:\Users\SHAHABUDIN\Desktop\assignment 1\problem # 10(console app)\obj\Debug\problem # 10(console app).csproj.CoreCompileInputs.cache
-C:\Users\SHAHABUDIN\Desktop\assignment 1\problem # 10(console app)\obj\Debug\problem # 10(console app).exe
-C:\Users\SHAHABUDIN\Desktop\assignment 1\problem # 10(console app)\obj\Debug\problem # 10(console app).pdb
