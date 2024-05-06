@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\DataGridView Control\DataGridView Control\bin\Debug\DataGridView Control.exe.config
+C:\Users\Hp\Desktop\DataGridView Control\DataGridView Control\bin\Debug\DataGridView Control.exe
+C:\Users\Hp\Desktop\DataGridView Control\DataGridView Control\bin\Debug\DataGridView Control.pdb
+C:\Users\Hp\Desktop\DataGridView Control\DataGridView Control\obj\Debug\DataGridView Control.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\DataGridView Control\DataGridView Control\obj\Debug\DataGridView_Control.Form1.resources
+C:\Users\Hp\Desktop\DataGridView Control\DataGridView Control\obj\Debug\DataGridView_Control.Properties.Resources.resources
+C:\Users\Hp\Desktop\DataGridView Control\DataGridView Control\obj\Debug\DataGridView Control.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\DataGridView Control\DataGridView Control\obj\Debug\DataGridView Control.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\DataGridView Control\DataGridView Control\obj\Debug\DataGridView Control.exe
+C:\Users\Hp\Desktop\DataGridView Control\DataGridView Control\obj\Debug\DataGridView Control.pdb
