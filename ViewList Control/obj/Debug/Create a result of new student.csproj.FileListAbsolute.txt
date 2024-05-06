@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\Create a result of new student\Create a result of new student\bin\Debug\Create a result of new student.exe.config
+C:\Users\Hp\Desktop\Create a result of new student\Create a result of new student\bin\Debug\Create a result of new student.exe
+C:\Users\Hp\Desktop\Create a result of new student\Create a result of new student\bin\Debug\Create a result of new student.pdb
+C:\Users\Hp\Desktop\Create a result of new student\Create a result of new student\obj\Debug\Create a result of new student.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Create a result of new student\Create a result of new student\obj\Debug\Create_a_result_of_new_student.Form1.resources
+C:\Users\Hp\Desktop\Create a result of new student\Create a result of new student\obj\Debug\Create_a_result_of_new_student.Properties.Resources.resources
+C:\Users\Hp\Desktop\Create a result of new student\Create a result of new student\obj\Debug\Create a result of new student.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Create a result of new student\Create a result of new student\obj\Debug\Create a result of new student.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Create a result of new student\Create a result of new student\obj\Debug\Create a result of new student.exe
+C:\Users\Hp\Desktop\Create a result of new student\Create a result of new student\obj\Debug\Create a result of new student.pdb
