@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\Student Data\Student Data\bin\Debug\Student Data.exe.config
+C:\Users\Hp\Desktop\Student Data\Student Data\bin\Debug\Student Data.exe
+C:\Users\Hp\Desktop\Student Data\Student Data\bin\Debug\Student Data.pdb
+C:\Users\Hp\Desktop\Student Data\Student Data\obj\Debug\Student Data.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Student Data\Student Data\obj\Debug\Student_Data.Form1.resources
+C:\Users\Hp\Desktop\Student Data\Student Data\obj\Debug\Student_Data.Properties.Resources.resources
+C:\Users\Hp\Desktop\Student Data\Student Data\obj\Debug\Student Data.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Student Data\Student Data\obj\Debug\Student Data.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Student Data\Student Data\obj\Debug\Student Data.exe
+C:\Users\Hp\Desktop\Student Data\Student Data\obj\Debug\Student Data.pdb
